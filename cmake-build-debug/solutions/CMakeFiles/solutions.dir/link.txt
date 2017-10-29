@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsolutions.a  
+/usr/bin/ranlib libsolutions.a

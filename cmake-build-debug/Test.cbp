@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/congxin/CLionProjects/Leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/congxin/CLionProjects/Leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/congxin/CLionProjects/Leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test">
+				<Option output="/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/congxin/CLionProjects/Leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test/fast">
+				<Option output="/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/congxin/CLionProjects/Leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/main.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Integer_to_English_Words.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Integer_to_Roman.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Leter_Combinations_of_a_Phone_Number.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Longest_Palindromic_Substring.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Longest_Substring_Without_Repeating_Characters.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Maximum_Length_of_Repeated_Subarray.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Palindrome_Number.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Regular_Expression_Matching.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Remove_Nth_Node_fron_End_of_List.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Reverse_Integer.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Sort_Colors.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Spiral_Matrix.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Spiral_Matrix_II.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/String_to_integer.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Subarray_Sum_Equals_K.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Subsets.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Subsets_II.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Summary_Ranges.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Task_Schedular.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Triangle.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Unique_Paths.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Unique_Paths_II.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Valid_Triangle_Number.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Word_Search.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Zigzag_Conversion.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/_2_Sum.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/_3_Sum.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/_4_Sum.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
