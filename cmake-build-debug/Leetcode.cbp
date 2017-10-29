@@ -77,8 +77,8 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="Leetcode">
-				<Option output="/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Leetcode" prefix_auto="0" extension_auto="0"/>
+			<Target title="Leetcode.out">
+				<Option output="/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Leetcode.out" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/congxin/CLionProjects/Leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -96,14 +96,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Leetcode"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Leetcode.out"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="Leetcode/fast">
-				<Option output="/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Leetcode" prefix_auto="0" extension_auto="0"/>
+			<Target title="Leetcode.out/fast">
+				<Option output="/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Leetcode.out" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/congxin/CLionProjects/Leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -121,7 +121,7 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Leetcode/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Leetcode.out/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/congxin/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -337,7 +337,7 @@
 			</Target>
 		</Build>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/Tests/Test_4.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/cmake-build-debug/googletest-src/googlemock/src/gmock-all.cc">
 			<Option target="gmock_main"/>
@@ -355,94 +355,94 @@
 			<Option target="gtest_main"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/main.cpp">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Integer_to_English_Words.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Integer_to_Roman.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Leter_Combinations_of_a_Phone_Number.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Longest_Palindromic_Substring.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Longest_Substring_Without_Repeating_Characters.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Maximum_Length_of_Repeated_Subarray.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Median_of_Two_Sorted_Arrays.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Palindrome_Number.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Regular_Expression_Matching.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Remove_Nth_Node_fron_End_of_List.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Reverse_Integer.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Sort_Colors.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Spiral_Matrix.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Spiral_Matrix_II.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/String_to_integer.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Subarray_Sum_Equals_K.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Subsets.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Subsets_II.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Summary_Ranges.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Task_Schedular.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Triangle.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Unique_Paths.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Unique_Paths_II.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Valid_Triangle_Number.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Word_Search.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Zigzag_Conversion.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/_2_Sum.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/_3_Sum.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/_4_Sum.h">
-			<Option target="Leetcode"/>
+			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

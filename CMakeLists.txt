@@ -58,9 +58,9 @@ set( SOURCE_FILES
 include_directories(cmake-build-debug/googletest-src/googletest/include)
 include_directories(cmake-build-debug/googletest-src/googlemock/include)
 
-add_executable( Leetcode ${SOURCE_FILES} )
-target_link_libraries(Leetcode gtest_main)
-add_test(NAME example_test COMMAND Leetcode)
+add_executable( Leetcode.out ${SOURCE_FILES} )
+target_link_libraries(Leetcode.out gtest_main)
+add_test(NAME example_test COMMAND Leetcode.out)
 
 
 

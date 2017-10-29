@@ -66,7 +66,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/Leetcode.dir/DependInfo.cmake"
+  "CMakeFiles/Leetcode.out.dir/DependInfo.cmake"
   "googletest-build/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
   "googletest-build/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
   "googletest-build/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
