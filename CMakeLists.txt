@@ -46,12 +46,16 @@ file( GLOB TEST_SOURCES
         Tests/*.h
         Tests/*.cpp
         )
-
+file( GLOB BASIC_SOURCES
+        Basics/*.h
+        Basics/*.cpp
+        )
 
 set( SOURCE_FILES
         main.cpp
         ${SOLUTION_SOURCES}
         ${TEST_SOURCES}
+        ${BASICS_SOURCES}
         )
 
 # Now simply link against gtest or gtest_main as needed. Eg

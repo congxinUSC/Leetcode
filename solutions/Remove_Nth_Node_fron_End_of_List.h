@@ -7,12 +7,7 @@
 #ifndef TEST_REMOVE_NTH_NODE_FRON_END_OF_LIST_H
 #define TEST_REMOVE_NTH_NODE_FRON_END_OF_LIST_H
 
-struct ListNode {
-    int val;
-    ListNode *next;
-    ListNode(int x) : val(x), next(nullptr) {}
-};
-
+#include "../Basics/ListNode.h"
 
 class Remove_Nth_Node_fron_End_of_List {
 public:

@@ -2,23 +2,10 @@
 #include <gtest/gtest.h>
 #include <gmock/gmock.h>
 
-#include "Tests/Test_4.h"
-
+#include "Tests/Test_23.h"
 using namespace std; // just for test! Don't use it like this!!!!!!!
 
-template<typename T, size_t size>
-::testing::AssertionResult ArraysMatch(const T (&expected)[size],
-                                       const T (&actual)[size]){
-    for (size_t i(0); i < size; ++i){
-        if (expected[i] != actual[i]){
-            return ::testing::AssertionFailure() << "array[" << i
-                                                 << "] (" << actual[i] << ") != expected[" << i
-                                                 << "] (" << expected[i] << ")";
-        }
-    }
 
-    return ::testing::AssertionSuccess();
-}
 
 
 

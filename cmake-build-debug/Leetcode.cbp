@@ -336,6 +336,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/Tests/Test_22.h">
+			<Option target="Leetcode.out"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/Tests/Test_23.h">
+			<Option target="Leetcode.out"/>
+		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/Tests/Test_4.h">
 			<Option target="Leetcode.out"/>
 		</Unit>
@@ -357,6 +363,9 @@
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/main.cpp">
 			<Option target="Leetcode.out"/>
 		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Generate_Parentheses.h">
+			<Option target="Leetcode.out"/>
+		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Integer_to_English_Words.h">
 			<Option target="Leetcode.out"/>
 		</Unit>
@@ -376,6 +385,9 @@
 			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Median_of_Two_Sorted_Arrays.h">
+			<Option target="Leetcode.out"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Merge_k_Sorted_Lists.h">
 			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Palindrome_Number.h">
