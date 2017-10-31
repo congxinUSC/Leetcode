@@ -342,6 +342,12 @@
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/Tests/Test_23.h">
 			<Option target="Leetcode.out"/>
 		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/Tests/Test_24.h">
+			<Option target="Leetcode.out"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/Tests/Test_25.h">
+			<Option target="Leetcode.out"/>
+		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/Tests/Test_4.h">
 			<Option target="Leetcode.out"/>
 		</Unit>
@@ -402,6 +408,12 @@
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Reverse_Integer.h">
 			<Option target="Leetcode.out"/>
 		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Reverse_Linked_List.h">
+			<Option target="Leetcode.out"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Reverse_Nodes_in_k_Group.h">
+			<Option target="Leetcode.out"/>
+		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Sort_Colors.h">
 			<Option target="Leetcode.out"/>
 		</Unit>
@@ -424,6 +436,9 @@
 			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Summary_Ranges.h">
+			<Option target="Leetcode.out"/>
+		</Unit>
+		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Swap_Nodes_in_Pairs.h">
 			<Option target="Leetcode.out"/>
 		</Unit>
 		<Unit filename="/home/congxin/CLionProjects/Leetcode/solutions/Task_Schedular.h">

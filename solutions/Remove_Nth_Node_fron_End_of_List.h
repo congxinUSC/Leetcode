@@ -11,10 +11,10 @@
 
 class Remove_Nth_Node_fron_End_of_List {
 public:
-    ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode *front=head;
-        ListNode *del=head;
-        ListNode *pre= new ListNode(0);
+    ListNode<>* removeNthFromEnd(ListNode<>* head, int n) {
+        ListNode<> *front=head;
+        ListNode<> *del=head;
+        ListNode<> *pre= new ListNode<>(0);
         pre->next=del;
         for(int i=0;i<n;i++){
             front=front->next;
